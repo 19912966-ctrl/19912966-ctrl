@@ -1,4 +1,4 @@
-# ¡Hola! Soy Estudiante de Desarrollo de Software 👋
+# ¡Hola! Soy Estudiante de Desarrollo de Software :bug:
 
 Me llamo Cristofer Jose Montiel y actualmente estoy cursando el Bachillerato en Desarrollo de Software en el **Instituto Nacional Profesor Francisco Zelaya**. Me apasiona la tecnología y estoy ansioso por aprender nuevas herramientas y lenguajes de programación para seguir creciendo en este mundo digital.
 
